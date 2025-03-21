@@ -3,3 +3,11 @@
 body{
     background: white;
 }
+
+.test {
+    font-size: 3rem;
+}
+
+.hide{
+    visibility: hidden;
+}
